@@ -1,0 +1,5 @@
+﻿Model,Accuracy,Balanced Accuracy,Precision Macro,Recall Macro,F1 Macro
+XGBoost,0.698638,0.696675,0.70963,0.696675,0.701375
+CatBoost,0.691457,0.691059,0.700687,0.691059,0.694377
+Random Forest,0.66901,0.664036,0.685463,0.664036,0.671456
+Logistic Regression,0.50224,0.49215,0.497255,0.49215,0.489541

@@ -1,0 +1,7 @@
+﻿Modelo A,Modelo B,Media A,Media B,Diferencia A-B,Mejor modelo,Wilcoxon stat,p-value,Significativo
+Logistic Regression,Random Forest,0.4895,0.6715,-0.1819,Random Forest,0.0,6.1e-05,Sí
+Logistic Regression,XG Boost,0.4895,0.7014,-0.2118,XG Boost,0.0,6.1e-05,Sí
+Logistic Regression,CatBoost,0.4895,0.6944,-0.2048,CatBoost,0.0,6.1e-05,Sí
+Random Forest,XG Boost,0.6715,0.7014,-0.0299,XG Boost,1.0,0.000122,Sí
+Random Forest,CatBoost,0.6715,0.6944,-0.0229,CatBoost,9.0,0.002014,Sí
+XG Boost,CatBoost,0.7014,0.6944,0.007,XG Boost,30.0,0.094604,No

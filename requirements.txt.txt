@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+catboost
+pywavelets
+matplotlib
+seaborn
+lime
+shap
+jupyter
