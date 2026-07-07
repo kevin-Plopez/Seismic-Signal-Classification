@@ -33,7 +33,7 @@ Develop an automatic seismic signal classification system based on multidomain f
 The complete workflow of the proposed methodology is illustrated below.
 
 <p align="center">
-<img src="docs/pipeline.png" width="900">
+<img width="1630" height="965" alt="Diagrama de Bloques" src="https://github.com/user-attachments/assets/8775a19c-399a-464d-96a0-772053f40ad1" />
 </p>
 
 The pipeline consists of the following stages:
@@ -342,6 +342,5 @@ Universidad San Francisco de Quito (USFQ)
 # License
 
 This project was developed exclusively for academic and research purposes as part of a Master's Thesis at the Universidad San Francisco de Quito.
-<img width="1630" height="965" alt="Diagrama de Bloques" src="https://github.com/user-attachments/assets/8775a19c-399a-464d-96a0-772053f40ad1" />
 
 The seismic dataset is not publicly distributed and remains under separate data management.
